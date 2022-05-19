@@ -1,2 +1,2 @@
 # OpMC
-Spectral Disantangling with MCMC optimization
+Spectral Disentangling with MCMC Optimization
