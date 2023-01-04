@@ -15,7 +15,7 @@ The method uses orbital parameters of the binary system. This parameters are; or
 FDMC is a code written to solve this problem. Uses [FDBinary](http://sail.zpf.fer.hr/fdbinary/) for spectral disentangling and uses [MCMC](https://aip.scitation.org/doi/pdf/10.1063/1.1699114) algorithm for parameter optimization. [MCMC](https://aip.scitation.org/doi/pdf/10.1063/1.1699114) is to strong optimization routine and can perform error analysis with Bayesian statictic. FDMC is work on [Linux](https://www.linux.org/) systems and can work multiprocess. It stores the result of each iteration in it and this makes analysis easier.
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/100410767/210587255-b7721411-e4f2-4877-956d-32870c5c3c53.gif" width=50% height=30%>
+    <img src="https://user-images.githubusercontent.com/100410767/210587255-b7721411-e4f2-4877-956d-32870c5c3c53.gif" width=50% height=50%>
 </p>
 
 FDMC using [corner plot](https://www.researchgate.net/publication/303872046_cornerpy_Scatterplot_matrices_in_Python/fulltext/5a2cd23ba6fdccfbbf8746e5/cornerpy-Scatterplot-matrices-in-Python.pdf) for error analysis. In this way, the distribution of parameters in optimization space can also be seen. Additionally FDMC includes other different analyses within.
