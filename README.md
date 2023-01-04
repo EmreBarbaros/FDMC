@@ -18,7 +18,7 @@ FDMC is a code written to solve this problem. Uses [FDBinary](http://sail.zpf.fe
     <img src="https://user-images.githubusercontent.com/100410767/210552812-22659d5f-3124-4e4d-9275-c986e8b309d5.gif" width=50% height=30%>
 </p>
 
-FDMC using [corner plot](https://www.researchgate.net/publication/303872046_cornerpy_Scatterplot_matrices_in_Python/fulltext/5a2cd23ba6fdccfbbf8746e5/cornerpy-Scatterplot-matrices-in-Python.pdf) for error analysis. In this way, the distribution of parameters in optimization space can also be seen. Also FDMC includes other different analyses within.
+FDMC using [corner plot](https://www.researchgate.net/publication/303872046_cornerpy_Scatterplot_matrices_in_Python/fulltext/5a2cd23ba6fdccfbbf8746e5/cornerpy-Scatterplot-matrices-in-Python.pdf) for error analysis. In this way, the distribution of parameters in optimization space can also be seen. Additionally FDMC includes other different analyses within.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/100410767/210513229-29fd33d4-1df2-4ecf-92f8-ac1ba2cf9192.jpg" width=50% height=30%>
