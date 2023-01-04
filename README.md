@@ -1,7 +1,9 @@
 
 # FDMC
 \
-Spectral disentangling using [MCMC](https://aip.scitation.org/doi/pdf/10.1063/1.1699114) optimization with [FDBinary](http://sail.zpf.fer.hr/fdbinary/).\
+**Spectral disentangling using [MCMC](https://aip.scitation.org/doi/pdf/10.1063/1.1699114) optimization with [FDBinary](http://sail.zpf.fer.hr/fdbinary/)**.
+\
+\
 Spectral disentangling is a mathematical method for obtaining the spectra of the component stars that make up spectral binary star systems. The radial velocities of the components in each observation are calculated and then a radial velocity correction is performed.
 \
 \
