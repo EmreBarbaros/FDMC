@@ -24,4 +24,4 @@ FDMC using [corner plot](https://www.researchgate.net/publication/303872046_corn
     <img src="https://user-images.githubusercontent.com/100410767/211144344-7a6da86a-bb46-4785-a280-7e99ff8910d2.jpg" width=50% height=30%>
 </p>
 
-For more details about *"spectral disentangling"* and *"FDMC"* , you can visit this [Link](https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp).
+For more details about *"spectral disentangling"* and *"FDMC"* , you can visit this [Link](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=RsTBl6RWK25OBMIKtIgYYfD8JcyyaT6TuRGpUGHqr4h-s1UXQCjI-5aUytqxUzIi).
